@@ -1,1 +1,1 @@
-### My first simple iWatch app Sample 
+### My first simple iWatch app Sample. Please refer to my blog [iWatch App Development Basic 1](http://nilstack.github.io/2014/11/20/iWatch-App-Development-Basic-1/).
